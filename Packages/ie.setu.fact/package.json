@@ -1,0 +1,7 @@
+{
+	"name" : "ie.setu.fact",
+	"version": "0.1.0",
+	"displayName": "Fact",
+	"description": "A filter that fact",
+	"unity":"2021.3"
+}
